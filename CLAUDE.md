@@ -4,7 +4,7 @@
 
 ---
 
-## Project Status (Last updated: Mon Mar 17 2026)
+## Project Status (Last updated: Wed Mar 18 2026)
 
 ### Current State: v0.75 Released + Pedagogic-First Philosophy Restored
 
@@ -62,9 +62,9 @@
   - Added note on external scoring tools optimizing for the wrong rubric
   - Claude Code plugin marketplace badge and coming-soon install snippet added to `README.md`
   - Release note: `docs/announcements/2026-03-17-v0-75-pedagogic-first.md`
-- **Open PRs (as of Mar 17, 2026):**
+- **Open PRs (as of Mar 18, 2026):**
   - #1 KNE-AI — `pm-skill-creator` interactive skill — approved pending rename of frontmatter `name` to `pm-skill-creator`
-  - #2 markphelps — Claude Code plugin marketplace (`marketplace.json`) — approved pending version `0.75.0` and correct email `dean.peters@productside.com`
+  - ✅ #2 markphelps — Claude Code plugin marketplace (`marketplace.json`) — **merged Mar 18, 2026**; `.claude-plugin/marketplace.json` now in main
   - #3 popey — efficiency improvements across 46 skills — sent back; structural table consolidations welcome, pedagogic content (Why This Works, Anti-Patterns, educational preambles) must be restored
 - ✅ **v0.7 Released (Mar 9, 2026):** Tightened skill quality and discovery standards across the full library
   - Standardized trigger-oriented `description` language so skills more clearly answer "use this when..."
